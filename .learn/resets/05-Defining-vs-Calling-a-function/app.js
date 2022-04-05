@@ -1,9 +1,3 @@
-function multi(num1,numb2) {
-  return num1 * numb2
-  
-}
-  
-
 //Define the function called "multi" that expects 2 parameters:
 
 
