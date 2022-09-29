@@ -7,7 +7,7 @@ var total2 = sum(5,10);
 var total3 = sum(2,3);
 let superduper = sum(3445324,53454423);
 
-console.log(total);
+ console.log(total);
 console.log(total2);
 console.log(total3);
-console.log (superduper);
+console.log (superduper); 
